@@ -17,8 +17,8 @@
 
 ### 📫  Education
 
-- LG헬로비전 DX DATA SCHOOL 2기 (2023.12 ~ )
-- 동국대학교 정보통신공학과 졸업 (2017.03 ~ 2024.02)
+- [LG헬로비전 DX DATA SCHOOL 2기](http://lghellovisiondataschool.rapa.or.kr/ft/main.do) | (2023.12 ~ )
+- [동국대학교 정보통신공학과 졸업](https://www.dongguk.edu/main) | (2017.03 ~ 2024.02)
 
 
 
@@ -33,6 +33,15 @@
 
 
 ### ⚡ Activity
+
+- [FARM SYSTEM] - 동국대학교 소프트웨어융합 기술동아리(2023.05 ~ 2023.08)
+- [CAPS] - 동국대학교 중앙학술동아리(2017.03 ~ 2023.12)
+
+
+
+
+
+
 
 
 
