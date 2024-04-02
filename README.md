@@ -1,20 +1,36 @@
-### Hi there 👋
 
-<!--
-**Engineer97/Engineer97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻   HEEJAE YU
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨 Frontend Developer
+- 🌱 I’m interested in Javascript, Typescript, ReactJS, and React Native.
+- [ RESUME ](https://spark-agenda-873.notion.site/Heejae-Yu-1895999e56fe43799f3d4cf17e9d7274)
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
+
+
+### 🛠  Tech Stack
+
+- 💻  Javascript | CSS | Python
+- ⚙️  React | React Native
+- 🛢  Firebase 
+
+
+
+### 📫  Career
+
+- LG헬로비전 DX DATA SCHOOL 2기 (2023.12 ~ 2024.06)
+- 동국대학교 정보통신공학과 졸업 (2017.03 ~ 2024.02)
+
+
+### 📚 Projects
+
+
+
+
+
+
+
+
+
+
+
