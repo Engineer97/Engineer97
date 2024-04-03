@@ -9,7 +9,7 @@
 
 ### 🛠  Tech Stack
 
-- 💻  Javascript | C# | Python
+- 💻  Javascript | C# | Java
 - ⚙️  React | React Native
 - 🛢  Firebase 
 
