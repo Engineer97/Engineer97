@@ -28,7 +28,7 @@
 - [사회문제 해결을 위한 해커톤](https://docs.google.com/document/d/15HGohrhkUehzYI_pkNf3c4GyBHro1uC-zF2BR2UKPPU/edit?usp=sharing) - 음식물 쓰레기를 줄이기 위한 애플리케이션(나만의 레AI피)
 - [졸업작품](https://docs.google.com/document/d/15KaJMUhObvvfi1E25I2mI49QEMS5v3kjYOxqJrw6Ykg/edit?usp=sharing) - 초등학생을 위한 코딩 교육용 게임
 - [2021년 비대면시대의 인공지능 챌린지(우수상)] - 증강현실을 기반으로 한 치매노인의 행동패턴을 분석하여 알려주는 딥러닝
-- [ICE 4차 산업혁명 스마트 아이디어 경진대회(3위)] - 증강현실을 이용한 재난 대피 애플리케이션
+- [ICE 4차 산업혁명 스마트 아이디어 경진대회(3위)](https://docs.google.com/presentation/d/1tvuVwd7-HAXNK1xjTiPQ1vjbtYI7NogSVLHNU-E_dRc/edit?usp=sharing) - 증강현실을 이용한 재난 대피 애플리케이션
 
 
 
