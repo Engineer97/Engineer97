@@ -24,7 +24,7 @@
 
 ### 📚 Projects
 
-- [LG헬로비전 DX DATA SCHOOL 2기 프로젝트] - 웹 기반 사용자 맞춤 VOD 추천 시스템
+- [LG헬로비전 DX DATA SCHOOL 2기 프로젝트] - 웹 기반 사용자 맞춤 VOD 추천 시스템[MVTI(Movie & VOD To Individuals)]
 - [사회문제 해결을 위한 해커톤](https://docs.google.com/document/d/15HGohrhkUehzYI_pkNf3c4GyBHro1uC-zF2BR2UKPPU/edit?usp=sharing) - 음식물 쓰레기를 줄이기 위한 애플리케이션(나만의 레AI피)
 - [졸업작품](https://docs.google.com/document/d/15KaJMUhObvvfi1E25I2mI49QEMS5v3kjYOxqJrw6Ykg/edit?usp=sharing) - 초등학생을 위한 코딩 교육용 게임
 - [2021년 비대면시대의 인공지능 챌린지(우수상)](https://docs.google.com/presentation/d/1jeVjvSaZQ3Fzncq3IOS7bn9SIkiAZK8QCIdwLSJszHU/edit?usp=sharing) - 증강현실을 기반으로 한 치매노인의 행동패턴을 분석하여 알려주는 딥러닝
