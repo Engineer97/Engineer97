@@ -16,7 +16,7 @@
 
 ### 📫  Education
 
-- [LG헬로비전 DX DATA SCHOOL 2기](http://lghellovisiondataschool.rapa.or.kr/ft/main.do) | (2023.12 ~ )
+- [LG헬로비전 DX DATA SCHOOL 2기](http://lghellovisiondataschool.rapa.or.kr/ft/main.do) | (2023.12 ~ 2024.06)
 - [동국대학교 정보통신공학과 졸업](https://www.dongguk.edu/main) | (2017.03 ~ 2024.02)
 
 
