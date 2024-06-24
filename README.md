@@ -2,7 +2,7 @@
 ### 👨🏻‍💻   HEEJAE YU
 
 - 👨 Frontend Developer
-- 🌱 I’m interested in Javascript, Typescript, ReactJS, and React Native.
+- 🌱 I’m interested in Javascript, Typescript, ReactJS.
 - [ RESUME ](https://spark-agenda-873.notion.site/Heejae-Yu-1895999e56fe43799f3d4cf17e9d7274)
 
 
