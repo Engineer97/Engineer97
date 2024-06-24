@@ -10,7 +10,7 @@
 ### 🛠  Tech Stack
 
 - 💻  Javascript | Typescript | Python | C#
-- ⚙️  React | React Native | Vue
+- ⚙️  React | Vue
 
 
 
