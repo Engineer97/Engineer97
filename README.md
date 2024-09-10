@@ -11,6 +11,7 @@
 
 - 💻  Javascript | Typescript | Python | C#
 - ⚙️  React | Vue
+- 🛢 Firebase
 
 
 
