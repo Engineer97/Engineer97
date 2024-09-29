@@ -24,7 +24,7 @@
 
 ### 📚 Projects
 
-- [새싹 해커톤] - 지적장애인을 위한 생성형 AI 기반 구직 플랫폼(드림업)
+- [새싹 해커톤](https://drive.google.com/file/d/1ZutHgI7z6TgTNDAbwqLBR8sJbLPVCVoN/view?usp=sharing) - 지적장애인을 위한 생성형 AI 기반 구직 플랫폼(드림업)
 - [2024 AI 항해커톤(특별상)](https://docs.google.com/presentation/d/1UI3-K2LMQlGrr7oy9eLf3OTasJtx5Ok92H7J8WbiYxY/edit?usp=sharing) - 시각장애인을 위한 인공지능 기반 시각보조 서비스(헬렌 켈러)
 - [사회문제 해결을 위한 해커톤](https://docs.google.com/document/d/1UvlBO8O0B3AokCj28uo-RiGFklREXvzU/edit?usp=sharing&ouid=102244677823808562002&rtpof=true&sd=true) - 음식물 쓰레기를 줄이기 위한 애플리케이션(나만의 레AI피)
 - [졸업작품](https://docs.google.com/presentation/d/1LI-xIJwUobLxjT3S3W7FwLhAYwyu6mOt/edit?usp=sharing&ouid=102244677823808562002&rtpof=true&sd=true) - 초등학생을 위한 코딩 교육용 게임
